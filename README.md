@@ -18,7 +18,7 @@ This project contains a full example of a Midlet Java application that employs t
   </tr>
 </table>
 
-This Java midlet contains two different screens: one with three stock quotes from the [Stock-List Demos](), the other with four items from the [Round-Trip Demo](https://github.com/Weswit/Lightstreamer-example-RoundTrip-client-javascript).
+This Java midlet contains two different screens: one with three stock quotes from the [Stock-List Demos](https://github.com/Weswit/Lightstreamer-example-Stocklist-client-javascript), the other with four items from the [Round-Trip Demo](https://github.com/Weswit/Lightstreamer-example-RoundTrip-client-javascript).
 This app uses the <b>Java ME Client API for Lightstreamer</b> to handle the communications with Lightstreamer Server.<br>
 
 You will see the yellow flashing cells of the Stock-List Demos. Use the Option menu to switch to the other demo, where you can see the values of some items of the Round-Trip Demo updated in real-time. To publish new values, use the Option menu.
