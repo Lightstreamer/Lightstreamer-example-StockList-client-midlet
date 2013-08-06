@@ -53,7 +53,7 @@ The factory configuration of Lightstreamer server already provides this adapter 
 
 * [Lightstreamer StockList Demo Adapter](https://github.com/Weswit/Lightstreamer-example-Stocklist-adapter-java)
 * [Lightstreamer Reusable Metadata Adapter in Java](https://github.com/Weswit/Lightstreamer-example-ReusableMetadata-adapter-java)
-* To be add: [Lightstreamer RoundTrip Demo Adapter]()
+* [Lightstreamer Round-Trip Demo Adapter](https://github.com/Weswit/Lightstreamer-example-RoundTrip-adapter-java)
 
 ## Similar demo clients that may interest you ##
 
