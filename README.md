@@ -66,3 +66,4 @@ The factory configuration of Lightstreamer server already provides this adapter 
 # Lightstreamer Compatibility Notes #
 
 - Compatible with Lightstreamer Java ME Client API v. 3.2.1 or newer.
+- For Lightstreamer Allegro+, Presto, Vivace.
