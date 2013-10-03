@@ -1,4 +1,3 @@
-
 # Lightstreamer StockList Demo Client for Java ME #
 
 This project contains a full example of a Midlet Java application that employs the Lightstreamer JAVA ME client library.
@@ -8,7 +7,7 @@ This project contains a full example of a Midlet Java application that employs t
 <table>
   <tr>
     <td style="text-align: left">
-      &nbsp;<a href="http://demos.lightstreamer.com/midlet/lsmidlet_midp.jad" target="_blank"><img src="http://www.lightstreamer.com/img/demo/screen_stockrtmidlet.png"></a>&nbsp;
+      &nbsp;<a href="http://demos.lightstreamer.com/midlet/lsmidlet_midp.jad" target="_blank"><img src="screen_stockrtmidlet.png"></a>&nbsp;
       
     </td>
     <td>
@@ -66,4 +65,4 @@ The factory configuration of Lightstreamer server already provides this adapter 
 # Lightstreamer Compatibility Notes #
 
 - Compatible with Lightstreamer Java ME Client API v. 3.2.1 or newer.
-- For Lightstreamer Allegro+, Presto, Vivace.
+- For Lightstreamer Allegro (+ Java ME Client API), Presto, Vivace.
