@@ -1,4 +1,5 @@
 # Lightstreamer - Basic Stock-List and Round-Trip Demo - Java ME Client #
+<!-- START DESCRIPTION Basic Stock-List and Round-Trip Demo -->
 
 This project contains a full example of a Midlet Java application that employs the Lightstreamer JAVA ME client library.
 
@@ -21,6 +22,8 @@ This app uses the <b>Java ME Client API for Lightstreamer</b> to handle the comm
 You will see the yellow flashing cells of the Stock-List Demos. Use the Option menu to switch to the other demo, where you can see the values of some items of the Round-Trip Demo updated in real-time. To publish new values, use the Option menu.
 
 You can open the [Lightstreamer - Round-Trip Demo - HTML Client](https://github.com/Weswit/Lightstreamer-example-RoundTrip-client-javascript) on a PC browser and see the values synchronized with the mobile phone.
+
+<!-- END DESCRIPTION Basic Stock-List and Round-Trip Demo -->
 
 # Build #
 
@@ -47,10 +50,13 @@ The factory configuration of Lightstreamer server already provides this adapter 
 # See Also #
 
 ## Lightstreamer Adapters needed by this demo client ##
+<!-- START RELATED_ENTRIES -->
 
 * [Lightstreamer - Stock-List Demo - Java Adapter](https://github.com/Weswit/Lightstreamer-example-Stocklist-adapter-java)
 * [Lightstreamer - Reusable Metadata Adapters - Java Adapter](https://github.com/Weswit/Lightstreamer-example-ReusableMetadata-adapter-java)
 * [Lightstreamer - Round-Trip Demo - Java Adapter](https://github.com/Weswit/Lightstreamer-example-RoundTrip-adapter-java)
+
+<!-- END RELATED_ENTRIES -->
 
 ## Similar demo clients that may interest you ##
 
