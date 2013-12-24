@@ -1,5 +1,5 @@
 # Lightstreamer - Basic Stock-List and Round-Trip Demo - Java ME Client #
-<!-- START DESCRIPTION Basic Stock-List and Round-Trip Demo -->
+<!-- START DESCRIPTION lightstreamer-example-stocklist-client-midlet -->
 
 This project contains a full example of a Midlet Java application that employs the Lightstreamer JAVA ME client library.
 
@@ -23,7 +23,7 @@ You will see the yellow flashing cells of the Stock-List Demos. Use the Option m
 
 You can open the [Lightstreamer - Round-Trip Demo - HTML Client](https://github.com/Weswit/Lightstreamer-example-RoundTrip-client-javascript) on a PC browser and see the values synchronized with the mobile phone.
 
-<!-- END DESCRIPTION Basic Stock-List and Round-Trip Demo -->
+<!-- END DESCRIPTION lightstreamer-example-stocklist-client-midlet -->
 
 # Build #
 
