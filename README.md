@@ -1,20 +1,10 @@
 # Lightstreamer - Basic Stock-List and Round-Trip Demo - Java ME Client #
 <!-- START DESCRIPTION lightstreamer-example-stocklist-client-midlet -->
 
-This project contains a full example of a Midlet Java application that employs the Lightstreamer JAVA ME client library.
+This project contains a full example of a Midlet Java application that employs the [Lightstreamer JAVA ME client library](http://www.lightstreamer.com/docs/client_javame_api/index.html).
 
-<table>
-  <tr>
-    <td style="text-align: left">
-      &nbsp;<a href="http://demos.lightstreamer.com/midlet/lsmidlet_midp.jad" target="_blank"><img src="screen_stockrtmidlet.png"></a>&nbsp;
-      
-    </td>
-    <td>
-      &nbsp;Click here to download and install the application:<br>
-      &nbsp;<a href="http://demos.lightstreamer.com/midlet/lsmidlet_midp.jad" target="_blank">http://demos.lightstreamer.com/midlet/lsmidlet_midp.jad</a>
-    </td>
-  </tr>
-</table>
+[![screenshot](screen_midlet_large.png)](http://demos.lightstreamer.com/midlet/lsmidlet_midp.jad)<br>
+Click here to download and install the application: [http://demos.lightstreamer.com/midlet/lsmidlet_midp.jad](http://demos.lightstreamer.com/midlet/lsmidlet_midp.jad)<br>
 
 This Java midlet contains two different screens: one with three stock quotes from the [Lightstreamer - Stock-List Demos - HTML Clients](https://github.com/Weswit/Lightstreamer-example-Stocklist-client-javascript), the other with four items from the [Lightstreamer - Round-Trip Demo - HTML Client](https://github.com/Weswit/Lightstreamer-example-RoundTrip-client-javascript).
 This app uses the <b>Java ME Client API for Lightstreamer</b> to handle the communications with Lightstreamer Server.<br>
@@ -49,7 +39,7 @@ The factory configuration of Lightstreamer server already provides this adapter 
 
 # See Also #
 
-## Lightstreamer Adapters needed by this demo client ##
+## Lightstreamer Adapters Needed by This Demo Client ##
 <!-- START RELATED_ENTRIES -->
 
 * [Lightstreamer - Stock-List Demo - Java Adapter](https://github.com/Weswit/Lightstreamer-example-Stocklist-adapter-java)
@@ -58,7 +48,7 @@ The factory configuration of Lightstreamer server already provides this adapter 
 
 <!-- END RELATED_ENTRIES -->
 
-## Similar demo clients that may interest you ##
+## Related Projects ##
 
 * [Lightstreamer - Stock-List Demos - HTML Clients](https://github.com/Weswit/Lightstreamer-example-Stocklist-client-javascript)
 * [Lightstreamer - Basic Stock-List Demo - jQuery (jqGrid) Client](https://github.com/Weswit/Lightstreamer-example-StockList-client-jquery)
