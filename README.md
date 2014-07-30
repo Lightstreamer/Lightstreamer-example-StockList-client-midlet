@@ -21,24 +21,24 @@ You can open the [Lightstreamer - Round-Trip Demo - HTML Client](https://github.
 
 ## Build
 
-If you want to skip the build and deploy processes of this demo please note that you can click the image or link above to download a MIDP 2.0 ".jad" file to your phone. As an alternative, point your mobile browser to the URL, to choose between .jad and .jar: http://demos.lightstreamer.com/midlet/ .
+If you want to skip the build and deploy processes of this demo please note that you can click the image or link above to download a MIDP 2.0 `.jad` file to your phone. As an alternative, point your mobile browser to the URL, to choose between `.jad` and `.jar`: http://demos.lightstreamer.com/midlet/ .
 Once installed on your phone, run the midlet, allow the network connections, choose the access point id prompted, and wait for the connection to be established (as shown in the top green bar).<br>
 
 Otherwise, if you want to procede with the compilation of own version of this demo please consider that this example is comprised of the following folders:
-* /src<br>
+* `src`<br>
   Contains the sources to build the java application.
 
-* /res<br>
+* `res`<br>
   Contains the images needed to the demo.
   
-* /lib<br>
-  Drop here the ls-j2me-client.jar from the Lighstreamer SDK for Java ME Clients, to be used for the build process and execution.
+* `lib`<br>
+  Drop here the `ls-j2me-client.jar` from the Lighstreamer SDK for Java ME Clients, to be used for the build process and execution.
 
 ### Deploy
   
-By the current configuration, specified in "LightstreamerDemoMidlet.java" and used by the provided precompiled files, the demo tries to connect to the demo server currently running on Lightstreamer website.
+By the current configuration, specified in `LightstreamerDemoMidlet.java` and used by the provided precompiled files, the demo tries to connect to the demo server currently running on Lightstreamer website.
 The demo can be reconfigured and recompiled in order to connect to the local installation of Lightstreamer Server. Only the host name and the port number have to be changed in the source code.
-The example requires that the [QUOTE_ADAPTER](https://github.com/Weswit/Lightstreamer-example-Stocklist-adapter-java), [ROUNDTRIP_ADAPTER]() and [LiteralBasedProvider](https://github.com/Weswit/Lightstreamer-example-ReusableMetadata-adapter-java) have to be deployed in your local Lightstreamer server instance. 
+The example requires that the [QUOTE_ADAPTER](https://github.com/Weswit/Lightstreamer-example-Stocklist-adapter-java), [ROUNDTRIP_ADAPTER](https://github.com/Weswit/Lightstreamer-example-RoundTrip-adapter-java) and [LiteralBasedProvider](https://github.com/Weswit/Lightstreamer-example-ReusableMetadata-adapter-java) have to be deployed in your local Lightstreamer server instance.
 The factory configuration of Lightstreamer server already provides this adapter deployed.<br>
 
 ## See Also
