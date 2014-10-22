@@ -38,8 +38,8 @@ Otherwise, if you want to procede with the compilation of own version of this de
   
 By the current configuration, specified in `LightstreamerDemoMidlet.java` and used by the provided precompiled files; the demo tries to connect to the demo server currently running on Lightstreamer website.
 The demo can be reconfigured and recompiled to connect to the local installation of Lightstreamer Server. Only the host name and the port number have to be changed in the source code.
-The example requires that the [QUOTE_ADAPTER](https://github.com/Weswit/Lightstreamer-example-Stocklist-adapter-java), [ROUNDTRIP_ADAPTER](https://github.com/Weswit/Lightstreamer-example-RoundTrip-adapter-java) and [LiteralBasedProvider](https://github.com/Weswit/Lightstreamer-example-ReusableMetadata-adapter-java) have to be deployed in your local Lightstreamer server instance.
-The factory configuration of Lightstreamer server already provides this adapter deployed.<br>
+The example requires that the [QUOTE_ADAPTER](https://github.com/Weswit/Lightstreamer-example-Stocklist-adapter-java) and [ROUNDTRIP_ADAPTER](https://github.com/Weswit/Lightstreamer-example-RoundTrip-adapter-java) have to be deployed in your local Lightstreamer server instance;
+the [LiteralBasedProvider](https://github.com/Weswit/Lightstreamer-example-ReusableMetadata-adapter-java) is also needed, but it is already provided by Lightstreamer server.<br>
 
 ## See Also
 
