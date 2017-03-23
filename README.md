@@ -6,7 +6,7 @@ This project contains a full example of a Midlet Java application that employs t
 ## Live Demo
 
 [![screenshot](screen_midlet_large.png)](http://demos.lightstreamer.com/midlet/lsmidlet_midp.jad)<br>
-###[![](http://demos.lightstreamer.com/site/img/play.png) View live demo](http://demos.lightstreamer.com/midlet/lsmidlet_midp.jad)<br>
+### [![](http://demos.lightstreamer.com/site/img/play.png) View live demo](http://demos.lightstreamer.com/midlet/lsmidlet_midp.jad)<br>
 
 ## Details
 
