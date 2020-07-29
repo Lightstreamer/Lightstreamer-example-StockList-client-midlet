@@ -1,7 +1,7 @@
 # Lightstreamer - Basic Stock-List and Round-Trip Demo - Java ME Client
 <!-- START DESCRIPTION lightstreamer-example-stocklist-client-midlet -->
 
-This project contains a full example of a Midlet Java application that employs the [Lightstreamer JAVA ME client library](http://www.lightstreamer.com/docs/client_javame_api/index.html).
+This project contains a full example of a Midlet Java application that employs the [Lightstreamer JAVA ME client library](https://lightstreamer.com/api/ls-javame-client/latest/index.html).
 
 ## Live Demo
 
